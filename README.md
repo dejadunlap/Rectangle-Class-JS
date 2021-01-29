@@ -5,4 +5,5 @@ rectangle. The user will then be given four choices:
 2. Scale only the length
 3. Scale only the width
 4. Scale both the length and the width by different factors
+
 Once the user has made a choice they will be guided through the selected program and the new area, perimeter, and rectangle will run
